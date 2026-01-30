@@ -22,4 +22,4 @@ To install dependencies without uv, use `pip install -r requirements.txt`.
 
 ## Configuration
 
-In `.env`, set your OpenAI API key and choose your endpoint based on which Harvard API service you have access to.  Use the `.env.sample` as a guide.◊
+In `.env`, set your OpenAI API key and choose your endpoint based on which Harvard API service you have access to.  Use the `.env.sample` as a guide.
