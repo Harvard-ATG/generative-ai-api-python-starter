@@ -11,7 +11,7 @@ This script demonstrates how to configure and test Harvard's OpenAI API integrat
 
 ### 2. OpenAI API for Course Use
 
-- **Base URL**: `https://go.apis.huit.harvard.edu/ais-openai-direct/v1`
+- **Base URL**: `https://go.apis.huit.harvard.edu/ais-openai-direct/v2`
 - **Access Request**: [Request OpenAI API key for classes, workshops, or other short-term contexts](https://harvard.az1.qualtrics.com/jfe/form/SV_8dZqSdJoKVE5EOi)
 
 ## Setup
